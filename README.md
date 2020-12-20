@@ -21,13 +21,6 @@ An excellent front-end solution for enterprise applications.
 
 </div>
 
-- Preview - [https://antd-admin.zuiidea.com](https://antd-admin.zuiidea.com)
-- Documentation - [https://doc.antd-admin.zuiidea.com](https://doc.antd-admin.zuiidea.com)
-- FAQ - [https://doc.antd-admin.zuiidea.com/#/faq](https://doc.antd-admin.zuiidea.com/#/faq)
-- ChangeLog - [https://doc.antd-admin.zuiidea.com/#/change-log](https://doc.antd-admin.zuiidea.com/#/change-log)
-
-English | [简体中文](./README-zh_CN.md) 
-
 ## Features
 
 - Internationalization, extracting translation fields from source code, loading language packs on demand
@@ -64,10 +57,6 @@ npm run start
 ```
 
 4. After the startup is complete, open a browser and visit [http://localhost:7000](http://localhost:7000), If you need to change the startup port, you can configure it in the `.env` file.
-
-
-> More instructions at [documentation](https://doc.antd-admin.zuiidea.com)。
-
 
 ## Browsers support
 
